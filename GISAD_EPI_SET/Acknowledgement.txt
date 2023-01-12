@@ -1,0 +1,1 @@
+We acknowledge GISAID (https://gisaid.org/) and all the originating and submitting laboratories and teams for their contribution to the SARS-CoV-2 sequence data used in this project.
