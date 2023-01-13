@@ -11,6 +11,7 @@ Steps involve: file chunking, sequence filtering, grouping by geographical regio
 R scripts are passed as arguments from command line
 
 1. Download sample_dataset to desired path (contains sequences, metadata, refseq and all_R_scripts)
+Gunzip sequences.fasta.gz and metadata.tsv.gz
 
 2. FILE CHUNKING: Use extract_chunks.R to split 10,000 sequences into 2 chunks of 5000.  
 ARGS: Rscript [path]/sample_dataset/all_R_scripts/extract_chunks.R [path]/sample sequences.fasta metadata.tsv 5000  
