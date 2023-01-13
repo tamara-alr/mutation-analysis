@@ -35,5 +35,7 @@ ARGS: Rscript [path]/sample_dataset/all_R_scripts/count_epi_n_lineage.R [path]/s
 7. FIND MUTATIONS: Use find_N_mut.R to detect AA changes in NP (genomic coordinates: 28274 29533)  
 ARGS: Rscript [path]/sample_dataset/all_R_scripts/assign_epiweek.R [path]/sample_dataset/merged_filtered/Africa Africa_seqs.fasta [path]/sample/Refseq/MN908947.fasta 28274 29533  
 
+# GISAID EPI IDs
+GISAD_EPI_SET file contains EPI_SET for the high-quality dataset (HQR) of 3,051,084 seqeunces used in study.
 
 
